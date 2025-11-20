@@ -78,9 +78,9 @@ We may update this Privacy Policy from time to time. Continued use of the Bot af
 ## 11. Contact Us
 
 For questions about this Privacy Policy or to exercise your data rights, please contact us through:
-- Our Discord server
+- Our Discord server [ https://discord.gg/6tZb7yY6Yy ]
 - GitHub repository issues
-- Email: [Your contact email]
+- Email: [gvprashanth8@gmail.com]
 
 ## 12. Compliance
 
